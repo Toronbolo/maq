@@ -7,14 +7,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Pagina de especificaciones</title>
 	 <!-- Bootstrap, css, javascript-->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<link href="css/main.css" rel="stylesheet">
 </head>
 <body>
+	<script src="js/bootstrap.min.js"></script>
 	<!-- Header -->
 	<div class="container">
 		<div class="col-md-12">
-			<img src="images/header.png" alt="Encabezado" class="img-responsive">
+			<img src="img/header.png" alt="Encabezado" class="img-responsive">
 		</div>
 
 		<!-- Content -->
@@ -107,12 +108,10 @@
 		  <br />
 		  <button type="submit" class="btn btn-default">Enviar</button>
 		</form>
-
-
 		<!-- Footer -->
 		<div class="col-md-12">
 			<p class="firma">Yorki Bonilla</p>
-			<img src="images/footer.png" alt="Pie de pagina" class="img-responsive">
+			<img src="img/footer.png" alt="Pie de pagina" class="img-responsive">
 		</div>
 	</div>
 </body>
