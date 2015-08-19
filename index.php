@@ -56,17 +56,18 @@
 
 		  <label for="drop-down-supervisor">Seleccione su supervisor</label>
 		  <select name="list-supervisor" id="drop-down-supervisor">
-		  	<option value="a01">A01</option>
-		  	<option value="a02">A02</option>
-		  	<option value="a03">A03</option>
-		  	<option value="a04">A04</option>
-		  	<option value="a05">A05</option>
-		  	<option value="a06">A06</option>
-		  	<option value="a07">A07</option>
-		  	<option value="a08">A08</option>
-		  	<option value="a09">A09</option>
-		  	<option value="a10">A10</option>
-		  	<option value="a11">A11</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
+		  	<option value="ana polanco">Ana Polanco</option>
 		  </select>
 		  <!-- Informacion de usuario -->
 
