@@ -25,16 +25,20 @@
 		<form class="form-inline">
 		  <div class="form-group">
 		    <label for="codigo">Codigo</label>
-		    <input type="text" class="form-control" id="codigo" placeholder="21045">
+		    <input type="text" class="form-control" id="codigo" placeholder="21045"> 
 		  </div>
+		  <br />
+		  <br />
 		  <div class="form-group">
 		    <label for="nombre">Nombre</label>
 		    <input type="email" class="form-control" id="nombre" placeholder="Maria">
 		  </div>
 		  <div class="form-group">
-		    <label for="nombre">Apellido</label>
-		    <input type="email" class="form-control" id="nombre" placeholder="Polanco">
+		    <label for="apellido">Apellido</label>
+		    <input type="email" class="form-control" id="apellido" placeholder="Polanco">
 		  </div>
+		  <br />
+		  <br />
 		  <button type="submit" class="btn btn-default">Enviar</button>
 		</form>
 
